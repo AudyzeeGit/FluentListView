@@ -9,7 +9,8 @@ Here is an example of what your FluentListView can look like:
 
 Add graphics, buttons and descriptions to make your application come to life:
 
-![3](https://user-images.githubusercontent.com/91251540/134485252-c03b0cbd-a078-4654-b65e-d85c6a122fe5.png)
+![KalinLights](https://user-images.githubusercontent.com/91251540/134486204-36ccf918-a947-44b8-9b89-592d5666d2da.png)
+
 
 #How it works
 FluentListView is designed to view a list of strongly-typed objects. You don't need to create ListItem objects, you just feed it your list and everything is handled internally.
